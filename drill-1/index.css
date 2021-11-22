@@ -1,0 +1,41 @@
+
+
+#rectangle-1 {
+  position: absolute;
+  width: 1024px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+
+  background: #717171;
+}
+
+#rectangle-2 {
+  position: absolute;
+  width: 724px;
+  height: 150px;
+  left: 150px;
+  bottom: 0px;
+
+ background: #3D3D3D;
+}
+
+#left-sction {
+  position: absolute;
+  width: 151px;
+  height: 874px;
+  left: 0px;
+  top: 150px;
+
+  background: #D5D5D5;
+}
+
+#right-sction {
+  position: absolute;
+  width: 151px;
+  height: 874px;
+  left: 873px;
+  top: 150px;
+
+  background: #D5D5D5;
+}
